@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/c97f432bfe052fda82a784b62e3f3477/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/47d11fc95d4449ab8bedbb48c0571edc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:17:1-55:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/ce048d9d942ae0e102e64498cf129c84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/1506ddb95334210785db69df0bb6c4d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/12c8e398fc39240bfecf68261d7aff85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/9d5a02fb5addeca9c4338db2b67ff5e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/20a4ef50f077d65c7fca2ee1fa48a1fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/345f77a5b9a8831719e78fbc17c0cca5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/9f91af168f5a8275fa9ab09130d9145b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/ce723c5b03cef7b7d8282bbd9462210b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/167ac70ad9c0bdf13829000abea66509/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/03ba1d1e21935c06a9385ba599f97609/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/ee21df6c34c20609540f9064245470b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/c20c896e9a36771d616dab8b2e14eaa9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/042c85687539949f17c9c21aa21392f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/0fcfc4b00772b2bffbe5c0df104b46af/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/10218f6d24c23724721367df59792cd9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/dc8e7e996b60e108914ead351582fce5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/3d599a8e7ebbd1c3f4fbb63924d4a880/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/b73bad310d11fd5dc04ab5d9a5041bdc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/8ba363d852a9337014541e18b8e10432/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/82443bc2eaad17995e034979e812807b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/82776962061c488b7e11069722eb4983/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/73155dbabe86e43d1d221623246de1f5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/fdd7096db4356fba9cb22155bf18d395/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/7ace0d54c0738821629d34dfa000ffda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/38e82de67d8b6e55e9309d9100ddede5/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:5:5-60
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:24:5-26:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:24:5-26:36
+	android:name
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:5:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:7:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:21:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:8:22-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:10:22-64
+application
+ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:12:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/47d11fc95d4449ab8bedbb48c0571edc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/47d11fc95d4449ab8bedbb48c0571edc/AndroidManifest.xml:9:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:45:5-53:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/0fcfc4b00772b2bffbe5c0df104b46af/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/0fcfc4b00772b2bffbe5c0df104b46af/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/10218f6d24c23724721367df59792cd9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/10218f6d24c23724721367df59792cd9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/0fcfc4b00772b2bffbe5c0df104b46af/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:16:9-44
+	android:icon
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:14:9-39
+	android:allowBackup
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.example.ppg_proto_1.ZxingActivity
+ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:19:19-48
+activity#com.example.ppg_proto_1.Read_QR
+ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:20:9-45
+	android:name
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:20:19-42
+activity#com.example.ppg_proto_1.Information
+ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:21:9-49
+	android:name
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:21:19-46
+activity#com.example.ppg_proto_1.MainActivity
+ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/c97f432bfe052fda82a784b62e3f3477/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/c97f432bfe052fda82a784b62e3f3477/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/47d11fc95d4449ab8bedbb48c0571edc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/47d11fc95d4449ab8bedbb48c0571edc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/ce048d9d942ae0e102e64498cf129c84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/ce048d9d942ae0e102e64498cf129c84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/1506ddb95334210785db69df0bb6c4d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/1506ddb95334210785db69df0bb6c4d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/12c8e398fc39240bfecf68261d7aff85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/12c8e398fc39240bfecf68261d7aff85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/9d5a02fb5addeca9c4338db2b67ff5e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/9d5a02fb5addeca9c4338db2b67ff5e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/20a4ef50f077d65c7fca2ee1fa48a1fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/20a4ef50f077d65c7fca2ee1fa48a1fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/345f77a5b9a8831719e78fbc17c0cca5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/345f77a5b9a8831719e78fbc17c0cca5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/9f91af168f5a8275fa9ab09130d9145b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/9f91af168f5a8275fa9ab09130d9145b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/ce723c5b03cef7b7d8282bbd9462210b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/ce723c5b03cef7b7d8282bbd9462210b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/167ac70ad9c0bdf13829000abea66509/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/167ac70ad9c0bdf13829000abea66509/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/03ba1d1e21935c06a9385ba599f97609/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/03ba1d1e21935c06a9385ba599f97609/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/ee21df6c34c20609540f9064245470b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/ee21df6c34c20609540f9064245470b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/c20c896e9a36771d616dab8b2e14eaa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/c20c896e9a36771d616dab8b2e14eaa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/042c85687539949f17c9c21aa21392f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/042c85687539949f17c9c21aa21392f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/0fcfc4b00772b2bffbe5c0df104b46af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/0fcfc4b00772b2bffbe5c0df104b46af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/10218f6d24c23724721367df59792cd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/10218f6d24c23724721367df59792cd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/dc8e7e996b60e108914ead351582fce5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/dc8e7e996b60e108914ead351582fce5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/3d599a8e7ebbd1c3f4fbb63924d4a880/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/3d599a8e7ebbd1c3f4fbb63924d4a880/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/b73bad310d11fd5dc04ab5d9a5041bdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/b73bad310d11fd5dc04ab5d9a5041bdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/8ba363d852a9337014541e18b8e10432/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/8ba363d852a9337014541e18b8e10432/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/82443bc2eaad17995e034979e812807b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/82443bc2eaad17995e034979e812807b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/82776962061c488b7e11069722eb4983/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/82776962061c488b7e11069722eb4983/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/73155dbabe86e43d1d221623246de1f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/73155dbabe86e43d1d221623246de1f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/fdd7096db4356fba9cb22155bf18d395/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/fdd7096db4356fba9cb22155bf18d395/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/7ace0d54c0738821629d34dfa000ffda/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/7ace0d54c0738821629d34dfa000ffda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/38e82de67d8b6e55e9309d9100ddede5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/38e82de67d8b6e55e9309d9100ddede5/AndroidManifest.xml:20:5-44
+INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macintoshhd/Documents/도큐멘트 - Macintosh의 MacBook Pro/캡스톤디자인-2019/어플부분/PPG_proto_1 2/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] /Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/2f8041dc8ed0f501cf39a1d79821b9ff/AndroidManifest.xml:47:13-74
